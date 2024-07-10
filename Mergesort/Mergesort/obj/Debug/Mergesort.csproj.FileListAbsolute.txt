@@ -1,0 +1,6 @@
+H:\LuuDuLieuSinhVien\LK\Mergesort\Mergesort\bin\Debug\Mergesort.exe.config
+H:\LuuDuLieuSinhVien\LK\Mergesort\Mergesort\obj\Debug\Mergesort.csprojResolveAssemblyReference.cache
+H:\LuuDuLieuSinhVien\LK\Mergesort\Mergesort\bin\Debug\Mergesort.exe
+H:\LuuDuLieuSinhVien\LK\Mergesort\Mergesort\bin\Debug\Mergesort.pdb
+H:\LuuDuLieuSinhVien\LK\Mergesort\Mergesort\obj\Debug\Mergesort.exe
+H:\LuuDuLieuSinhVien\LK\Mergesort\Mergesort\obj\Debug\Mergesort.pdb

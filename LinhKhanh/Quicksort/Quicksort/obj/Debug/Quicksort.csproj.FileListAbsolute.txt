@@ -1,0 +1,6 @@
+E:\LinhKhanh\Quicksort\Quicksort\bin\Debug\Quicksort.exe.config
+E:\LinhKhanh\Quicksort\Quicksort\bin\Debug\Quicksort.exe
+E:\LinhKhanh\Quicksort\Quicksort\bin\Debug\Quicksort.pdb
+E:\LinhKhanh\Quicksort\Quicksort\obj\Debug\Quicksort.csprojResolveAssemblyReference.cache
+E:\LinhKhanh\Quicksort\Quicksort\obj\Debug\Quicksort.exe
+E:\LinhKhanh\Quicksort\Quicksort\obj\Debug\Quicksort.pdb
